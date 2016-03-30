@@ -1,0 +1,24 @@
+c:\users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\bin\Debug\Daemon002.exe.config
+c:\users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\bin\Debug\Daemon002.exe
+c:\users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\bin\Debug\Daemon002.pdb
+c:\users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\obj\Debug\Daemon002.Form1.resources
+c:\users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\obj\Debug\Daemon002.Properties.Resources.resources
+c:\users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\obj\Debug\Daemon002.csproj.GenerateResource.Cache
+c:\users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\obj\Debug\Daemon002.exe
+c:\users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\obj\Debug\Daemon002.pdb
+C:\Users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\bin\Debug\Daemon002.exe.manifest
+C:\Users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\bin\Debug\Daemon002.application
+C:\Users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\obj\Debug\Daemon002.exe.manifest
+C:\Users\daemon\documents\visual studio 11\Projects\Daemon002\Daemon002\obj\Debug\Daemon002.application
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\bin\Debug\Daemon002.exe.config
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\obj\Debug\Daemon002.exe
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\obj\Debug\Daemon002.pdb
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\bin\Debug\Daemon002.exe.manifest
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\bin\Debug\Daemon002.application
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\bin\Debug\Daemon002.exe
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\bin\Debug\Daemon002.pdb
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\obj\Debug\Daemon002.Form1.resources
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\obj\Debug\Daemon002.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\obj\Debug\Daemon002.csproj.GenerateResource.Cache
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\obj\Debug\Daemon002.exe.manifest
+C:\Users\Daemon\Documents\GitHub\SpadeInvacers\Daemon002\obj\Debug\Daemon002.application
